@@ -1,1 +1,1 @@
-FROM linuxserver/tvheadend:latest
+FROM lscr.io/linuxserver/tvheadend:latest
