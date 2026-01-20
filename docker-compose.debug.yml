@@ -1,0 +1,7 @@
+services:
+  tvheadend:
+    build: .
+    ports:
+      - "9981:9981"
+      - "9982:9982"
+    restart: unless-stopped
